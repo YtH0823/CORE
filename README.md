@@ -26,6 +26,13 @@ Cross-modal Geo-localization (CMGL) matches ground-level text descriptions with 
 </p>
 
 
+<p align="center">
+  <img width="80%"  alt="Pipeline_01" src="https://github.com/user-attachments/assets/94db6fb1-8ac6-46e4-87ce-b0a89ebe09db" />
+  <br>
+  <em>Figure 2. Pipeline of proposed PLANET.</em>
+</p>
+
+
 
 
 ## Datasets
