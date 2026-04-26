@@ -1,4 +1,3 @@
-# CORE
 <h1 align="center">Global Cross-Modal Geo-Localization: A Million-Scale Dataset and a Physical Consistency Learning Framework</h1>
 
 <p align="center">
