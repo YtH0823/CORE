@@ -9,6 +9,7 @@
   <a href="#-update">Update</a> | 
   <a href="#-abstract">Abstract</a> | 
   <a href="#-datasets">Datasets</a> | 
+  <a href="#-model">Model</a> | 
   <a href="#-usage">Usage</a>
 </p>
 
