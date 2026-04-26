@@ -19,7 +19,11 @@
 ## Abstract
 Cross-modal Geo-localization (CMGL) matches ground-level text descriptions with geo-tagged aerial imagery, which is crucial for pedestrian navigation and emergency response. However, existing researches are constrained by narrow geographic coverage and simplistic scene diversity, failing to reflect the immense spatial heterogeneity of global architectural styles and topographic features. To bridge this gap and facilitate universal positioning, we introduce CORE, the first million-scale dataset dedicated to global CMGL. CORE comprises 1,034,786 cross-view images sampled from 225 distinct geographic regions across all continents, offering an unprecedented variety of perspectives in varying environmental conditions and urban layouts. We leverage the zero-shot reasoning of Large Vision-Language Models (LVLMs) to synthesize high-quality scene descriptions rich in discriminative cues. Furthermore, we propose a physical-law-aware network (PLANET) for cross-modal geo-localization. PLANET introduces a novel contrastive learning paradigm to guide textual representations in capturing the intrinsic physical signatures of satellite imagery. Extensive experiments across varied geographic regions demonstrate that PLANET significantly outperforms state-of-the-art methods, establishing a new benchmark for robust, global-scale geo-localization.
 
-<img width="4683" height="2238" alt="Distribution_01" src="https://github.com/user-attachments/assets/67374a12-7849-4e4c-9086-7732c753501d" />
+<p align="center">
+  <img width="80%" alt="Distribution_01" src="https://github.com/user-attachments/assets/67374a12-7849-4e4c-9086-7732c753501d" />
+  <br>
+  <em>Figure 1. Geographical distribution map of sampled images and corresponding text annotations from the CORE dataset.</em>
+</p>
 
 
 
