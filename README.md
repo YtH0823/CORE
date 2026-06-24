@@ -24,7 +24,7 @@ Cross-modal Geo-localization (CMGL) matches ground-level text descriptions with 
 <p align="center">
   <img width="100%" alt="Distribution_01" src="https://github.com/user-attachments/assets/67374a12-7849-4e4c-9086-7732c753501d" />
   <br>
-  <em>Figure 1. Geographical distribution map of sampled images and corresponding text annotations from the CORE dataset.</em>
+  <em>Figure 1. Comparison between pairwise alignment and MAPS.</em>
 </p>
 
 
